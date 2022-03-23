@@ -2,8 +2,10 @@
 .local
 .output.js
 /node_modules/**
+.husky
 
 **/*.svg
 **/*.sh
+**/*.md
 
 /public/*
